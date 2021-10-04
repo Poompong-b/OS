@@ -1,2 +1,2 @@
-# OS
+# Operating System
 OS Group Work
