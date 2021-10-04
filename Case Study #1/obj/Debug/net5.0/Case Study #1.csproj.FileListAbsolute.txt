@@ -1,0 +1,16 @@
+D:\Work\Study\3rd Year\OS\Case Study #1\bin\Debug\net5.0\Case Study #1.exe
+D:\Work\Study\3rd Year\OS\Case Study #1\bin\Debug\net5.0\Case Study #1.deps.json
+D:\Work\Study\3rd Year\OS\Case Study #1\bin\Debug\net5.0\Case Study #1.runtimeconfig.json
+D:\Work\Study\3rd Year\OS\Case Study #1\bin\Debug\net5.0\Case Study #1.runtimeconfig.dev.json
+D:\Work\Study\3rd Year\OS\Case Study #1\bin\Debug\net5.0\Case Study #1.dll
+D:\Work\Study\3rd Year\OS\Case Study #1\bin\Debug\net5.0\ref\Case Study #1.dll
+D:\Work\Study\3rd Year\OS\Case Study #1\bin\Debug\net5.0\Case Study #1.pdb
+D:\Work\Study\3rd Year\OS\Case Study #1\obj\Debug\net5.0\Case Study #1.csproj.AssemblyReference.cache
+D:\Work\Study\3rd Year\OS\Case Study #1\obj\Debug\net5.0\Case Study #1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Study\3rd Year\OS\Case Study #1\obj\Debug\net5.0\Case Study #1.AssemblyInfoInputs.cache
+D:\Work\Study\3rd Year\OS\Case Study #1\obj\Debug\net5.0\Case Study #1.AssemblyInfo.cs
+D:\Work\Study\3rd Year\OS\Case Study #1\obj\Debug\net5.0\Case Study #1.csproj.CoreCompileInputs.cache
+D:\Work\Study\3rd Year\OS\Case Study #1\obj\Debug\net5.0\Case Study #1.dll
+D:\Work\Study\3rd Year\OS\Case Study #1\obj\Debug\net5.0\ref\Case Study #1.dll
+D:\Work\Study\3rd Year\OS\Case Study #1\obj\Debug\net5.0\Case Study #1.pdb
+D:\Work\Study\3rd Year\OS\Case Study #1\obj\Debug\net5.0\Case Study #1.genruntimeconfig.cache
