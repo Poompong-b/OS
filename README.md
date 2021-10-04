@@ -1,3 +1,3 @@
 # Operating System
-##KMITL
+## KMITL
 OS Group Work
