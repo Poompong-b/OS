@@ -49,7 +49,7 @@ namespace Problem01
             {
                 Sum_Global += (Data_Global[G_index] / 2);
             }
-            else if (Data_Global[G_index] %7 == 0)
+            else if (Data_Global[G_index] % 7 == 0)
             {
                 Sum_Global += (Data_Global[G_index] / 3);
             }
