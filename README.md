@@ -4,8 +4,8 @@
 ## KMITL
 OS Group Work :D
 
-- ![Poom-branch](https://img.shields.io/github/last-commit/Poompong-b/OS/Poom?label=Poompong%20last%20commit&style=flat-square)
-- ![sirawit-branch](https://img.shields.io/github/last-commit/Poompong-b/OS/sirawit?label=Sirawit%20last%20commit&style=flat-square)
+![Poom-branch](https://img.shields.io/github/last-commit/Poompong-b/OS/Poom?label=Poompong%20last%20commit&style=flat-square)
+![sirawit-branch](https://img.shields.io/github/last-commit/Poompong-b/OS/sirawit?label=Sirawit%20last%20commit&style=flat-square)
 
 
 
