@@ -1,6 +1,11 @@
-# Operating System
+# Operating System 
+[![last-commit](https://img.shields.io/github/last-commit/Poompong-b/OS?logo=github&logoColor=white)](https://github.com/Poompong-b/OS)
+[![contributors](https://img.shields.io/github/contributors/Poompong-b/OS?color=informational)](https://github.com/Poompong-b/OS/graphs/contributors)
 ## KMITL
 OS Group Work :D
+![sirawit-branch](https://img.shields.io/github/last-commit/Poompong-b/OS/sirawit?label=sirawit%20last%20commit)
+
+
 
 ## Contributor
 
@@ -8,4 +13,4 @@ OS Group Work :D
 - Surawit Yosaeng [Snap!](https://j4m3ee.github.io)
 - Poompong Boondee [Here!](https://github.com/Poompong-b)
 - Pudinan Pensuk [![](https://img.shields.io/github/followers/gutpdn?label=gutpdn&style=social)](https://github.com/gutpdn)
-- Sirawit Sukwattanavit [![Github](https://img.shields.io/github/followers/sirawit-suk?label=sirawit-suk&logoColor=critical&style=social)](https://github.com/sirawit-suk)
+- Sirawit Sukwattanavit [![Github](https://img.shields.io/github/followers/sirawit-suk?label=sirawit-suk&color=181717&logoColor=critical&style=social)](https://github.com/sirawit-suk)
