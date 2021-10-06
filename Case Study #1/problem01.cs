@@ -13,6 +13,7 @@ namespace Problem01
         static long Sum_Global = 0;
         static int G_index = 0;
 
+        //This is Read file .dat (Nothing to do here)
         static int ReadData()
         {
             int returnData = 0;
@@ -35,7 +36,11 @@ namespace Problem01
 
             return returnData;
         }
-        static void sum()
+
+
+        // This function here has a problems 
+        // FIX HERE !!! 
+        static void sum() 
         {
             if (Data_Global[G_index] % 2 == 0)
             {
@@ -49,13 +54,16 @@ namespace Problem01
             {
                 Sum_Global += (Data_Global[G_index] / 2);
             }
-            else if (Data_Global[G_index] %7 == 0)
+            else if (Data_Global[G_index] % 7 == 0)
             {
                 Sum_Global += (Data_Global[G_index] / 3);
             }
             Data_Global[G_index] = 0;
             G_index++;   
         }
+
+
+
         static void Main(string[] args)
         {
             Stopwatch sw = new Stopwatch();
@@ -75,10 +83,16 @@ namespace Problem01
 
             /* Start */
             Console.Write("\n\nWorking...");
+
+
+            //Clock start 
             sw.Start();
-            for (i = 0; i < 1000000000; i++)
+            for (i = 0; i < 1000000000; i++) // RUN loop 1 billion times
                 sum();
+            //Clock stop 
             sw.Stop();
+
+
             Console.WriteLine("Done.");
 
             /* Result */
