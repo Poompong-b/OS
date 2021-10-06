@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Study\\3rd Year\\OS\\Case Study #1\\Case Study #1.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\OS\\Case Study #1\\Case Study #1.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Study\\3rd Year\\OS\\Case Study #1\\Case Study #1.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\OS\\Case Study #1\\Case Study #1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Study\\3rd Year\\OS\\Case Study #1\\Case Study #1.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\OS\\Case Study #1\\Case Study #1.csproj",
         "projectName": "Case Study #1",
-        "projectPath": "D:\\Work\\Study\\3rd Year\\OS\\Case Study #1\\Case Study #1.csproj",
-        "packagesPath": "C:\\Users\\poom2\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Study\\3rd Year\\OS\\Case Study #1\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\OS\\Case Study #1\\Case Study #1.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\OS\\Case Study #1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\poom2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
