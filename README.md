@@ -3,7 +3,9 @@
 [![contributors](https://img.shields.io/github/contributors/Poompong-b/OS?color=informational)](https://github.com/Poompong-b/OS/graphs/contributors)
 ## KMITL
 OS Group Work :D
-![sirawit-branch](https://img.shields.io/github/last-commit/Poompong-b/OS/sirawit?label=sirawit%20last%20commit)
+
+### ![Poom-branch](https://img.shields.io/github/last-commit/Poompong-b/OS/Poom?label=Poompong%20last%20commit)
+### ![sirawit-branch](https://img.shields.io/github/last-commit/Poompong-b/OS/sirawit?label=Sirawit%20last%20commit)
 
 
 
