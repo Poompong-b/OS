@@ -1,4 +1,5 @@
-# Operating System 
+# Operating System (Obsolete)
+# MOVE TO [OS-GROUP-64](https://github.com/OS-GROUP-64)
 [![last-commit](https://img.shields.io/github/last-commit/Poompong-b/OS?logo=github&logoColor=white)](https://github.com/Poompong-b/OS) 
 [![contributors](https://img.shields.io/github/contributors/Poompong-b/OS?color=informational)](https://github.com/Poompong-b/OS/graphs/contributors)
 ## KMITL
